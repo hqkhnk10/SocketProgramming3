@@ -1,3 +1,3 @@
 # SocketProgramming3
 
-i run multiple instaces of client
+i run multiple instances of client
